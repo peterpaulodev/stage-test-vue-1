@@ -1,0 +1,37 @@
+{
+  "name": "stage-vue-jamstack-10",
+  "bucket": "stage-vue-jamstack-10",
+  "template": "vue",
+  "mode": "deliver",
+  "env": "production",
+  "prefix": "20240307132939",
+  "project-root": "/azion-samples/templates/vuejs-boilerplate",
+  "function": {
+    "id": 0,
+    "name": "__DEFAULT__",
+    "file": "./out/worker.js",
+    "args": "./azion/args.json",
+    "instance-id": 0
+  },
+  "application": {
+    "id": 1709818958,
+    "name": "__DEFAULT__"
+  },
+  "domain": {
+    "id": 1709819593,
+    "name": "__DEFAULT__"
+  },
+  "rt-purge": {
+    "purge_on_publish": true
+  },
+  "origin": {
+    "single-origin-id": 0,
+    "storage-origin-id": 335988,
+    "storage-origin-key": "991599c8-bb0b-46a0-b6f0-cb1d0a92f970",
+    "name": "stage-vue-jamstack-10_object",
+    "address": null
+  },
+  "rules-engine": {
+    "created": true
+  }
+}
