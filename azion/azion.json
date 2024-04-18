@@ -1,24 +1,24 @@
 {
-  "name": "HendrikTeste24",
-  "bucket": "HendrikTeste24",
+  "name": "HendrikTeste25",
+  "bucket": "HendrikTeste25",
   "template": "vue",
   "mode": "deliver",
   "env": "production",
-  "prefix": "20240418185543",
+  "prefix": "20240418190958",
   "function": {
-    "id": 45765,
+    "id": 45767,
     "name": "__DEFAULT__",
     "file": ".edge/worker.js",
     "args": "./azion/args.json",
-    "instance-id": 50075,
+    "instance-id": 50077,
     "instance-name": "__DEFAULT__"
   },
   "application": {
-    "id": 1713463099,
+    "id": 1713463101,
     "name": "__DEFAULT__"
   },
   "domain": {
-    "id": 1713460624,
+    "id": 1713460626,
     "name": "__DEFAULT__"
   },
   "rt-purge": {
@@ -26,9 +26,9 @@
   },
   "origin": {
     "single-origin-id": 0,
-    "storage-origin-id": 351505,
-    "storage-origin-key": "46eee1db-124c-4f28-89a1-a1a25eb4f1d5",
-    "name": "HendrikTeste24_object",
+    "storage-origin-id": 351507,
+    "storage-origin-key": "17a04ec9-2333-4f81-bae6-ab77b3f5c327",
+    "name": "HendrikTeste25_object",
     "address": null
   },
   "rules-engine": {
