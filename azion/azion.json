@@ -1,24 +1,24 @@
 {
-  "name": "dwadawd2d2dwadaD",
-  "bucket": "dwadawd2d2dwadaD",
+  "name": "stage-test-vue-1",
+  "bucket": "stage-test-vue-1",
   "template": "vue",
   "mode": "deliver",
   "env": "production",
-  "prefix": "20240419143555",
+  "prefix": "20240419201220",
   "function": {
-    "id": 45835,
+    "id": 45841,
     "name": "__DEFAULT__",
     "file": ".edge/worker.js",
     "args": "./azion/args.json",
-    "instance-id": 50149,
+    "instance-id": 50155,
     "instance-name": "__DEFAULT__"
   },
   "application": {
-    "id": 1713533425,
+    "id": 1713553435,
     "name": "__DEFAULT__"
   },
   "domain": {
-    "id": 1713530869,
+    "id": 1713550876,
     "name": "__DEFAULT__"
   },
   "rt-purge": {
@@ -26,9 +26,9 @@
   },
   "origin": {
     "single-origin-id": 0,
-    "storage-origin-id": 351858,
-    "storage-origin-key": "2d5b9d36-f994-44d4-98df-4edfae7d7ac3",
-    "name": "dwadawd2d2dwadaD_object",
+    "storage-origin-id": 0,
+    "storage-origin-key": "",
+    "name": "__DEFAULT__",
     "address": null
   },
   "rules-engine": {
